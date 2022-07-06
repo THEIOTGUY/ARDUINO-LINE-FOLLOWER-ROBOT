@@ -1,9 +1,9 @@
 #define m1 7 //Right Motor MA1
 #define m2 6 //Right Motor MA2
-#define m3 9 //Left Motor MB1
-#define m4 8 //Left Motor MB2
-#define e1 5 //Right Motor Enable Pin EA
-#define e2 10 //Left Motor Enable Pin EB
+#define m3 4 //Left Motor MB1
+#define m4 5 //Left Motor MB2
+#define e1 9 //Right Motor Enable Pin EA
+#define e2 3 //Left Motor Enable Pin EB
 
 //**********5 Channel IR Sensor Connection**********//
 #define ir1 A0
