@@ -21,8 +21,8 @@ This is a line follower robot made by arduino uno r3, it is based on 5 channel I
 ````
 #define m1 7 //Right Motor MA1
 #define m2 6 //Right Motor MA2
-#define m3 5 //Left Motor MB1
-#define m4 4 //Left Motor MB2
+#define m3 4 //Left Motor MB1
+#define m4 5 //Left Motor MB2
 #define e1 9 //Right Motor Enable Pin EA
 #define e2 3 //Left Motor Enable Pin EB
 
